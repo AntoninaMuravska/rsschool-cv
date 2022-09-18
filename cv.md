@@ -4,6 +4,7 @@ JUNIOR FRONT-END DEVELOPER
 * Location: Kyiv, Ukraine
 * Phone: (066) 096-40-84
 * E-mail: at.tonya@gmail.com
+* [GitHub Page](https://github.com/AntoninaMuravska)
 * Discord: Antonina Muravska (@amuravska)
 ## SUMMARY
 I’m looking for a job as junior front-end developer. Have a strong willingness to learn and improve my knowledge in JS and React.
